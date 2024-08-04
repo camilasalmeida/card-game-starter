@@ -1,0 +1,8 @@
+[submodule "card-game-starter-code"]
+    path = card-game-starter-code
+    url = https://github.com/camilasalmeida/card-game-starter.git
+
+    
+[submodule "card-game-starter"]
+	path = card-game-starter
+	url = https://github.com/camilasalmeida/card-game-starter.git
